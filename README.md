@@ -33,7 +33,9 @@
 To play <i>Off the Right Track</i>, you need the following:
 
 ```bash
+ 
 git clone https://github.com/S3adlyy/off_the_right_track.git
 cd off-the-right-track
+rm -rf prog
 make
 ./prog
