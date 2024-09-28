@@ -1,0 +1,1170 @@
+here
+page: 1 
+entered menu
+thread created 
+ total progress: -1.00page: 2 
+entered game level1
+ 1 |  2 |  3 | 
+ 3 |  2 |  1 | acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (76,185,254)
+COLOR COLLIDED (r, g, b) = (77,184,254)
+COLOR COLLIDED (r, g, b) = (77,184,254)
+COLOR COLLIDED (r, g, b) = (87,193,253)
+COLOR COLLIDED (r, g, b) = (89,195,255)
+COLOR COLLIDED (r, g, b) = (96,200,255)
+COLOR COLLIDED (r, g, b) = (96,200,255)
+COLOR COLLIDED (r, g, b) = (96,200,255)
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 202
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, -28429 | POINTS: 760, -27929| colliding: 0
+i: 0
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: -28429
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (128,230,255)
+COLOR COLLIDED (r, g, b) = (134,228,254)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (144,231,251)
+COLOR COLLIDED (r, g, b) = (125,210,217)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 770 | POINTS: 760, 1461| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 6.03 | dx: 3643362.18
+COLOR COLLIDED (r, g, b) = (121,229,255)
+COLOR COLLIDED (r, g, b) = (134,228,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4403, 769 | POINTS: 4403, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (118,199,34)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 64
+miniplayer pos x: 1048
+player pos x: 4403 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (121,229,255)
+COLOR COLLIDED (r, g, b) = (134,228,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (0,1,0)
+Collision at: 4403, 768 | POINTS: 4403, 1459| colliding: 1
+COLOR COLLIDED (r, g, b) = (118,199,34)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1048
+player pos x: 4403 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (121,229,255)
+COLOR COLLIDED (r, g, b) = (134,228,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (0,1,0)
+Collision at: 4403, 768 | POINTS: 4403, 1459| colliding: 1
+COLOR COLLIDED (r, g, b) = (118,199,34)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1048
+player pos x: 4403 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 5.70 | dx: 3249789.10
+COLOR COLLIDED (r, g, b) = (138,225,242)
+COLOR COLLIDED (r, g, b) = (139,222,254)
+COLOR COLLIDED (r, g, b) = (134,225,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 1153, 768 | POINTS: 1153, 1459| colliding: 1
+COLOR COLLIDED (r, g, b) = (117,192,40)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 64
+miniplayer pos x: 560
+player pos x: 1153 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 10.00 | dx: 3504630.00
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 768 | POINTS: 4657, 1459| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,2)
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 64
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 3.96 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4657, 767 | POINTS: 4657, 1458| colliding: 1
+COLOR COLLIDED (r, g, b) = (138,198,42)
+VALID Y: 1458 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 0
+miniplayer pos x: 1086
+player pos x: 4657 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 8.19 | dx: 6712821.34
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 11369, 767 | POINTS: 11369, 1267| colliding: 1
+i: 0
+playerspritesheet x: 64
+miniplayer pos x: 2093
+player pos x: 11369 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 2.17 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 11369, -28526 | POINTS: 11369, -28026| colliding: 1
+i: 0
+playerspritesheet x: 0
+miniplayer pos x: 2093
+player pos x: 11369 | player pos y: -28526
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 11369, 770 | POINTS: 11369, 1270| colliding: 1
+i: 0
+playerspritesheet x: 0
+miniplayer pos x: 2093
+player pos x: 11369 | player pos y: 770
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 7.64 | dx: 5856291.71
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (71,63,121)
+COLOR COLLIDED (r, g, b) = (255,0,255)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 5512, -6309 | POINTS: 5512, -5618| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5688 
+i: 5
+camera moving: cam y: 500 || last dy: 36481 
+playerspritesheet x: 64
+miniplayer pos x: 1214
+player pos x: 5512 | player pos y: -6379
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 10.00 | dx: 4224990.00
+COLOR COLLIDED (r, g, b) = (247,248,249)
+COLOR COLLIDED (r, g, b) = (255,255,0)
+COLOR COLLIDED (r, g, b) = (104,255,27)
+COLOR COLLIDED (r, g, b) = (199,197,212)
+COLOR COLLIDED (r, g, b) = (204,92,255)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 9736, -6379 | POINTS: 9736, -5688| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5689 
+i: 5
+camera moving: cam y: 500 || last dy: 58457 
+playerspritesheet x: 64
+miniplayer pos x: 1848
+player pos x: 9736 | player pos y: -6380
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 3.96 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (53,47,111)
+COLOR COLLIDED (r, g, b) = (57,121,255)
+COLOR COLLIDED (r, g, b) = (142,255,86)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (254,255,197)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 9736, -6380 | POINTS: 9736, -5689| colliding: 1
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5689 
+i: 5
+camera moving: cam y: 500 || last dy: 58457 
+playerspritesheet x: 0
+miniplayer pos x: 1848
+player pos x: 9736 | player pos y: -6380
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (53,47,111)
+COLOR COLLIDED (r, g, b) = (57,121,255)
+COLOR COLLIDED (r, g, b) = (142,255,86)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (254,255,197)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 9736, -6380 | POINTS: 9736, -5689| colliding: 1
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5689 
+i: 5
+camera moving: cam y: 500 || last dy: 58457 
+playerspritesheet x: 0
+miniplayer pos x: 1848
+player pos x: 9736 | player pos y: -6380
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (53,47,111)
+COLOR COLLIDED (r, g, b) = (57,121,255)
+COLOR COLLIDED (r, g, b) = (142,255,86)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (254,255,197)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 9736, -6380 | POINTS: 9736, -5689| colliding: 1
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5689 
+i: 5
+camera moving: cam y: 500 || last dy: 58457 
+playerspritesheet x: 0
+miniplayer pos x: 1848
+player pos x: 9736 | player pos y: -6380
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (53,47,111)
+COLOR COLLIDED (r, g, b) = (57,121,255)
+COLOR COLLIDED (r, g, b) = (142,255,86)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (254,255,197)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 9736, -6380 | POINTS: 9736, -5689| colliding: 1
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5689 
+i: 5
+camera moving: cam y: 500 || last dy: 58457 
+playerspritesheet x: 0
+miniplayer pos x: 1848
+player pos x: 9736 | player pos y: -6380
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (53,47,111)
+COLOR COLLIDED (r, g, b) = (57,121,255)
+COLOR COLLIDED (r, g, b) = (142,255,86)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (254,255,197)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 9736, -6380 | POINTS: 9736, -5689| colliding: 1
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5689 
+i: 5
+camera moving: cam y: 500 || last dy: 58457 
+playerspritesheet x: 0
+miniplayer pos x: 1848
+player pos x: 9736 | player pos y: -6380
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (53,47,111)
+COLOR COLLIDED (r, g, b) = (57,121,255)
+COLOR COLLIDED (r, g, b) = (142,255,86)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (254,255,197)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 9736, -6380 | POINTS: 9736, -5689| colliding: 1
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5689 
+i: 5
+camera moving: cam y: 500 || last dy: 58457 
+playerspritesheet x: 0
+miniplayer pos x: 1848
+player pos x: 9736 | player pos y: -6380
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (53,47,111)
+COLOR COLLIDED (r, g, b) = (57,121,255)
+COLOR COLLIDED (r, g, b) = (142,255,86)
+COLOR COLLIDED (r, g, b) = (255,255,255)
+COLOR COLLIDED (r, g, b) = (254,255,197)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 9736, -6380 | POINTS: 9736, -5689| colliding: 1
+COLOR COLLIDED (r, g, b) = (255,255,0)
+VALID Y: -5689 
+i: 5
+camera moving: cam y: 500 || last dy: 58457 
+playerspritesheet x: 0
+miniplayer pos x: 1848
+player pos x: 9736 | player pos y: -6380
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (53,47,111)
+COLOR COLLIDED (r, g, b) = (57,121,255)
+COLOR COLLIDED (r, g, b) = (142,255,86)
+COLOR COLLIDED (rhere
+page: 1 
+entered menu
+thread created 
+ total progress: -1.00page: 2 
+entered game level1
+ 1 |  2 |  3 | 
+ 3 |  2 |  1 | acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (93,198,255)
+COLOR COLLIDED (r, g, b) = (94,199,255)
+COLOR COLLIDED (r, g, b) = (93,198,255)
+COLOR COLLIDED (r, g, b) = (104,204,254)
+COLOR COLLIDED (r, g, b) = (104,204,254)
+COLOR COLLIDED (r, g, b) = (113,212,254)
+COLOR COLLIDED (r, g, b) = (114,213,255)
+COLOR COLLIDED (r, g, b) = (114,213,255)
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 368
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (128,230,255)
+COLOR COLLIDED (r, g, b) = (134,228,254)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (144,231,251)
+COLOR COLLIDED (r, g, b) = (125,210,217)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 770 | POINTS: 760, 1461| colliding: 0
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 0
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 0
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 0
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 0
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 0
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (129,231,254)
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (145,232,252)
+COLOR COLLIDED (r, g, b) = (131,216,221)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 760, 769 | POINTS: 760, 1460| colliding: 0
+COLOR COLLIDED (r, g, b) = (1,0,0)
+VALID Y: 1460 
+i: 5
+camera moving: cam y: 500 || last dy: 0 
+playerspritesheet x: 0
+miniplayer pos x: 502
+player pos x: 760 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 6.06 | dx: 3679704.72
+COLOR COLLIDED (r, g, b) = (133,227,253)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,1,0)
+Collision at: 4439, 769 | POINTS: 4439, 1460| colliding: 0
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (133,199,39)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 70308 
+playerspritesheet x: 64
+miniplayer pos x: 1053
+player pos x: 4439 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4439, 768 | POINTS: 4439, 1459| colliding: 0
+COLOR COLLIDED (r, g, b) = (133,199,39)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 70308 
+playerspritesheet x: 0
+miniplayer pos x: 1053
+player pos x: 4439 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4439, 768 | POINTS: 4439, 1459| colliding: 0
+COLOR COLLIDED (r, g, b) = (133,199,39)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 70308 
+playerspritesheet x: 0
+miniplayer pos x: 1053
+player pos x: 4439 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4439, 768 | POINTS: 4439, 1459| colliding: 0
+COLOR COLLIDED (r, g, b) = (133,199,39)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 70308 
+playerspritesheet x: 0
+miniplayer pos x: 1053
+player pos x: 4439 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 0.00 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 4439, 768 | POINTS: 4439, 1459| colliding: 0
+COLOR COLLIDED (r, g, b) = (133,199,39)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 70308 
+playerspritesheet x: 0
+miniplayer pos x: 1053
+player pos x: 4439 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 15438060.00
+COLOR COLLIDED (r, g, b) = (1,0,2)
+COLOR COLLIDED (r, g, b) = (135,224,254)
+COLOR COLLIDED (r, g, b) = (132,228,252)
+COLOR COLLIDED (r, g, b) = (152,246,254)
+COLOR COLLIDED (r, g, b) = (140,232,253)
+COLOR COLLIDED (r, g, b) = (104,175,9)
+COLOR COLLIDED (r, g, b) = (110,172,35)
+COLOR COLLIDED (r, g, b) = (109,173,27)
+camera moving: cam x: 0 || last dx: 15438 
+camera moving: cam y: 500 || last dy: 70308 
+playerspritesheet x: 64
+miniplayer pos x: -1261
+player pos x: -10999 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 10.00 | dx: 4303350.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: -15302, -21844 | POINTS: -15302, -21344| colliding: 0
+i: 0
+playerspritesheet x: 128
+miniplayer pos x: -1907
+player pos x: -15302 | player pos y: -21844
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 3.78 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (143,231,251)
+COLOR COLLIDED (r, g, b) = (134,237,242)
+COLOR COLLIDED (r, g, b) = (123,190,35)
+COLOR COLLIDED (r, g, b) = (123,194,28)
+COLOR COLLIDED (r, g, b) = (135,191,56)
+camera moving: cam y: 500 || last dy: 70308 
+playerspritesheet x: 0
+miniplayer pos x: -1907
+player pos x: -15302 | player pos y: 770
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 15587520.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: -30889, -25793 | POINTS: -30889, -25293| colliding: 0
+i: 0
+playerspritesheet x: 64
+miniplayer pos x: -4245
+player pos x: -30889 | player pos y: -25793
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 23885700.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 10762, -31591 | POINTS: 10762, -31091| colliding: 1
+i: 0
+playerspritesheet x: 128
+miniplayer pos x: 2002
+player pos x: 10762 | player pos y: -31591
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 15264600.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: -4502, 770 | POINTS: -4502, 1461| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (121,193,33)
+VALID Y: 1460 
+i: 5
+camera moving: cam x: 0 || last dx: 15264 
+camera moving: cam y: 500 || last dy: 70308 
+playerspritesheet x: 192
+miniplayer pos x: -287
+player pos x: -4502 | player pos y: 769
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 15438060.00
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 10936, 769 | POINTS: 10936, 1460| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (123,193,32)
+VALID Y: 1457 
+i: 5
+camera moving: cam y: 500 || last dy: 38173 
+playerspritesheet x: 64
+miniplayer pos x: 2028
+player pos x: 10936 | player pos y: 766
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 14412000.00
+COLOR COLLIDED (r, g, b) = (136,226,250)
+COLOR COLLIDED (r, g, b) = (130,225,253)
+COLOR COLLIDED (r, g, b) = (135,227,252)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (109,173,24)
+COLOR COLLIDED (r, g, b) = (111,174,25)
+COLOR COLLIDED (r, g, b) = (100,174,19)
+camera moving: cam x: 0 || last dx: 14412 
+camera moving: cam y: 500 || last dy: 38173 
+playerspritesheet x: 64
+miniplayer pos x: -133
+player pos x: -3476 | player pos y: 766
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 13935800.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: -17411, -29921 | POINTS: -17411, -29421| colliding: 0
+i: 0
+playerspritesheet x: 128
+miniplayer pos x: -2223
+player pos x: -17411 | player pos y: -29921
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 15141300.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,225,255)
+COLOR COLLIDED (r, g, b) = (131,224,255)
+COLOR COLLIDED (r, g, b) = (143,229,252)
+COLOR COLLIDED (r, g, b) = (143,234,255)
+COLOR COLLIDED (r, g, b) = (58,132,11)
+COLOR COLLIDED (r, g, b) = (69,141,3)
+COLOR COLLIDED (r, g, b) = (70,140,7)
+camera moving: cam x: 0 || last dx: 15141 
+camera moving: cam y: 500 || last dy: 38173 
+playerspritesheet x: 192
+miniplayer pos x: -4494
+player pos x: -32552 | player pos y: 770
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 14677320.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 18307, -28062 | POINTS: 18307, -27562| colliding: 0
+i: 0
+playerspritesheet x: 0
+miniplayer pos x: 3134
+player pos x: 18307 | player pos y: -28062
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 14798720.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (146,228,250)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 3508, 770 | POINTS: 3508, 1461| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (134,205,47)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 38173 
+playerspritesheet x: 64
+miniplayer pos x: 914
+player pos x: 3508 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 3.70 | dx: 0.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (146,226,249)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (1,1,1)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 3508, 768 | POINTS: 3535, 1459| colliding: 1
+COLOR COLLIDED (r, g, b) = (134,205,47)
+VALID Y: 1459 
+i: 6
+camera moving: cam y: 500 || last dy: 38173 
+playerspritesheet x: 0
+miniplayer pos x: 914
+player pos x: 3508 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 5.00 | vitesse: 9.92 | dx: 3887412.90
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (1,1,1)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: 7395, 768 | POINTS: 7422, 1459| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (140,202,43)
+VALID Y: 1458 
+i: 6
+camera moving: cam y: 500 || last dy: 37008 
+playerspritesheet x: 64
+miniplayer pos x: 1497
+player pos x: 7395 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 14969520.00
+COLOR COLLIDED (r, g, b) = (128,228,252)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (111,169,22)
+COLOR COLLIDED (r, g, b) = (106,177,23)
+COLOR COLLIDED (r, g, b) = (111,176,24)
+camera moving: cam x: 0 || last dx: 14969 
+camera moving: cam y: 500 || last dy: 37008 
+playerspritesheet x: 64
+miniplayer pos x: -748
+player pos x: -7574 | player pos y: 767
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 15043020.00
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: -22617, -27150 | POINTS: -22617, -26650| colliding: 0
+i: 0
+playerspritesheet x: 128
+miniplayer pos x: -3004
+player pos x: -22617 | player pos y: -27150
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 13818000.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (141,232,253)
+COLOR COLLIDED (r, g, b) = (0,0,0)
+Collision at: -8799, 770 | POINTS: -8799, 1461| colliding: 1
+COLOR COLLIDED (r, g, b) = (128,198,40)
+VALID Y: 1461 
+i: 5
+camera moving: cam y: 500 || last dy: 34554 
+playerspritesheet x: 64
+miniplayer pos x: -931
+player pos x: -8799 | player pos y: 770
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 15215220.00
+COLOR COLLIDED (r, g, b) = (132,226,254)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (133,227,255)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (142,233,254)
+COLOR COLLIDED (r, g, b) = (0,1,0)
+Collision at: 6416, 770 | POINTS: 6416, 1461| colliding: 1
+COLOR COLLIDED (r, g, b) = (0,0,0)
+COLOR COLLIDED (r, g, b) = (0,1,0)
+COLOR COLLIDED (r, g, b) = (1,1,1)
+VALID Y: 1459 
+i: 5
+camera moving: cam y: 500 || last dy: 34554 
+playerspritesheet x: 128
+miniplayer pos x: 1350
+player pos x: 6416 | player pos y: 768
+jumping: 0 | pos rel y: 0
+acceleration: 20.00 | vitesse: 10.00 | dx: 16422420.00
+COLOR COLLIDED (r, g, b

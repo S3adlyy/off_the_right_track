@@ -1,0 +1,118 @@
+MOST IMPORTANT-------
+-COLLISION   (DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE WIIIIIIIIIIIIIIII)   [lezmou chwaya ekher retouches ]
+-change score UI 'zeineb'
+-PLACE NPCS AND INIT NPC DIALOGUES AND MINIGAMES 
+-ADD SETTINGS IN PAUSE MENU | MAIN MENU SETTING -> ACTIVATE CONTROLLER OPTIONS
+-CREATE FIGHTING SYSTEM AND PLACE MUMMIES
+-FINISH OBJECTIVE SYSTEM
+-fix timer reward bug (when player chooses additional time as a reward, time isnt displayed ( not always)
+
+-fix jump and collision (sometimes, the player jump isnt executed after colliding with bottom )
+-fix egypt background
+-game item system
+
+
+
+-make animation at the beginning of every level showing the whole background from end to start 
+
+
+
+--NOW
+
+-ennemy system
+-moving platform system
+-boulder falling system
+
+
+-------------
+manette
+circle: dash
+square: fight
+X: jump
+triangle: guard
+
+joystick: move/move cursor/up down arrow behaviour
+joystick hold click: run
+----------------------
+tutorial pages:
+
+-KEYBINDS//
+
+
+---------------------
+-GAME OBJECTIVES-GOAL IN GAME   
+-NPCS - GAME OBJECTS
+-Obstacles & enemies
+-ENIGMAS
+-SCROLLS AND ANCIENT TEXT and their purpose
+-TIPS
+--------------------
+
+
+
+-finish on hover animation for every button in the menu
+-fix settings click button sfx delay
+-fix settings click button animation (not displaying if clicking too fast)
+-add music and sfx to ortcrush
+-add and make reward system better
+-add info icon and animation
+-add inventory bag
+-add settings to pause menu and link the audio volumes and fullscreen value to the files
+-menu raylights animation is done but NEEDS CHANGE
+-hp needs particle animation
+-tutorial system
+-information system
+-reward system
+-make scrolling and collision better *
+-fix player left walk spritesheet
+-make pause menu buttons functional
+-maybe add steps and dash sfx
+-cooldown lel sprinting and dashing (make them like league of legends abilities)
+-before displaying the player, add a condition to check if player is within camera bounds, if not, place him on the platform (bug counter)
+
+
+
+
+------------------GD3
+
+
+----MARKETING-------
+	-BIG BLACK FLYER (BBF) WITH MAP
+	-CARTE VISITE ET BADGE 
+	-AFFICHE (FACULTATIF)
+	-PROJECTEUR : PROJECT TRAILER
+	-TRAILER
+	-BATATA
+	-BRANDED PRIZES
+	-POOPIE PIE/PIPI
+----------------------
+----STAND-------------
+	-3 STAND EACH ITS OWN DECORATION 
+	-CHOCHOCOCHOCOCHOCOCHOCOCHOCOCHOCOCHOCOCHOCOCHOCOCHCO WITHHHHHHHHHHHHHHHHHHHHHHH PRIZEYYYYYYYYYYYYYYYYYYYYYYYY
+	-
+
+
+
+
+
+
+
+----Video-----------
+-Talk about our new tictactoe system which makes the game more challenging
+-Talk about the player movement (Dash stamina system, etc..)
+-Talk about the informational system, tutorial system and Objective in each level
+-Talk about how the ODD is linked to the lost rights
+-Talk about ortcrush system
+
+
+
+
+
+
+
+
+
+
+
+
+
