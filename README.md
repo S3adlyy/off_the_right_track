@@ -1,8 +1,4 @@
-# 🚂 <span style="color: #FFA500;">Off the Right Track</span>
-
-<p style="text-align: center;">
-  <img src="https://via.placeholder.com/150" alt="Off the Right Track logo">
-</p>
+#  <span style="color: #FFA500;">Off the Right Track</span>
 
 <p align="center">
   <i>Off the Right Track</i> is a 2D isometric game created by the <b>Artemis Team</b> in 2023 as part of a university project. Developed using <span style="color: #00BFFF;">C</span> and <span style="color: #00BFFF;">SDL 1.2</span>, this game offers an exciting, multi-level experience with a variety of playable characters.
