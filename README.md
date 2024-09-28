@@ -33,7 +33,7 @@
 To play <i>Off the Right Track</i>, you need the following:
 
 ```bash
-git clone https://github.com/yourusername/off-the-right-track.git
+git clone https://github.com/S3adlyy/off_the_right_track.git
 cd off-the-right-track
 make
-./off_the_right_track
+./prog
